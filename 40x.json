@@ -1,0 +1,9 @@
+{
+  "errors" : {
+    "primary" : { 
+      "type": "40x",
+      "source": "Load Balancer",
+      "message": "The request you made is not valid for this system"
+    }
+  }
+}

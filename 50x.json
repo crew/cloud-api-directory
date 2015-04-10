@@ -1,0 +1,9 @@
+{
+  "errors" : {
+    "primary" : { 
+      "type": "50x",
+      "source": "Load Balancer",
+      "message": "Something is broken on our end"
+    }
+  }
+}
